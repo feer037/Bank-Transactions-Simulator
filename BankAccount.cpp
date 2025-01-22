@@ -1,6 +1,5 @@
 #include "BankAccount.h"
-BankAccount::BankAccount()
-{}
+
 
 BankAccount::BankAccount(double initial_account_balance) :
     account_balance_(initial_account_balance)
